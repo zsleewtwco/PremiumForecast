@@ -458,7 +458,7 @@ def show_calculation_details(scenario_name, scenario_data, original_df, scenario
         
         st.dataframe(pd.DataFrame(age_examples))
 
-st.title("📊 Enhanced Medical Claims Projection with Stochastic Analysis")
+st.title("Premium Forecast aka Crystalball")
 
 st.markdown("""
 **Upload your Excel/CSV file with these columns:**
